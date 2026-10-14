@@ -1,98 +1,98 @@
-<!-- A quiet, product-led GitHub profile. Designed for @aranacj. -->
+<!-- Original profile design for @aranacj. Assets live in this repository. -->
+<div align="center">
 
-<div align="left">
+<img src="./assets/hero.svg" alt="Christian Jay animated developer hero" width="100%" />
 
-# Christian Jay <sub> / @aranacj</sub>
+<br />
 
-### I build software that makes complicated work feel straightforward.
-
-Product-minded software builder · Workflow design · Systems thinking · AI-assisted engineering
-
-[![GitHub](https://img.shields.io/badge/Explore_my_work-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/aranacj?tab=repositories)
-[![Current project](https://img.shields.io/badge/Claude_Code_team-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/aranacj/claude-world-class-app-team)
+<a href="https://github.com/aranacj?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-14262d?style=for-the-badge&logo=github&logoColor=7cf0bf" alt="Explore repositories" /></a>
+<a href="https://github.com/aranacj/claude-world-class-app-team"><img src="https://img.shields.io/badge/CLAUDE_DEV_TEAM-14262d?style=for-the-badge&logo=githubactions&logoColor=7cf0bf" alt="Claude dev team" /></a>
+<img src="https://komarev.com/ghpvc/?username=aranacj&label=PROFILE+VIEWS&color=16836d&style=for-the-badge" alt="Profile views" />
 
 </div>
 
-<br>
+<br />
 
-## 01 / A little about my work
+## `> whoami`
 
-I’m interested in the space where **real-world operations, thoughtful design, and solid engineering** meet.
+```ts
+const christian = {
+  focus: ["Product engineering", "Connected workflows", "System design"],
+  philosophy: "Powerful software should feel simple to use.",
+  building: "Tools that remove friction from real-world work",
+  approach: "Discover → Design → Build → Verify",
+};
+```
 
-I like starting with the messy part: the disconnected screens, repetitive steps, unclear handoffs, and edge cases that make software harder to use than it should be. Then I work toward a product with clear flows and reliable foundations.
+I build software around **how people actually work**—making complex operational tools easier to navigate, understand, and trust. My interests span product experience, system architecture, and AI-assisted engineering workflows.
 
-> **My north star:** Powerful features should not require a complicated experience.
-
-<br>
-
-## 02 / Selected work
+## `> selected_projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**PROPERTY OPERATIONS**  
-### Property Management Platform
+### 🏘️ Property Management Platform
 
-A TypeScript-based application focused on connecting the day-to-day work of property management: leasing, applications, move-ins, maintenance, inspections, and communication.
+**OPERATIONS · PRODUCT DESIGN · TYPESCRIPT**
 
-**Current emphasis**  
-Navigation that follows the job, not the database. Clear connections between workflows. Less hunting for the next step.
+An integrated platform covering leasing, applications, move-ins, maintenance, inspections, communications, and day-to-day property operations.
 
-<sub>Private repository · Project overview only</sub>
+**Design challenge:** Connect related workflows so users can move naturally from one task to the next.
+
+<sub>Private project · Overview only; source code is not public.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**DEVELOPER PRODUCTIVITY**  
-### [Claude World-Class App Team](https://github.com/aranacj/claude-world-class-app-team)
+### 🤖 [Claude World-Class App Team](https://github.com/aranacj/claude-world-class-app-team)
 
-A reusable Claude Code setup with specialist skills and subagents for product planning, architecture, design, implementation, testing, and review.
+**DEVELOPER TOOLS · AI WORKFLOWS · QUALITY**
 
-**Current emphasis**  
-A repeatable development process with explicit quality checks and clear ownership of decisions.
+A coordinated toolkit of Claude Code skills and specialist agents for discovery, architecture, UX, implementation, QA, and code review.
 
-[Explore the toolkit →](https://github.com/aranacj/claude-world-class-app-team)
+**Design challenge:** Bring repeatability and clear decision-making to AI-assisted software development.
+
+[**View the public repository ↗**](https://github.com/aranacj/claude-world-class-app-team)
 
 </td>
 </tr>
 </table>
 
-<br>
+## `> how_i_build`
 
-## 03 / How I approach building
+<div align="center"><img src="./assets/workflow.svg" alt="Animated four-stage approach: discover, design, build, verify" width="100%" /></div>
 
-| Discover | Design | Engineer | Validate |
-|:--|:--|:--|:--|
-| Understand the actual job | Map the whole journey | Make deliberate tradeoffs | Test the real workflow |
-| Find friction and gaps | Keep screens connected | Build for maintainability | Review edge cases |
+## `> toolbox`
 
-<br>
+<div align="center">
 
-## 04 / My workspace
+<img src="https://skillicons.dev/icons?i=ts,git,github,vscode,figma&theme=dark" alt="TypeScript Git GitHub VS Code Figma" />
 
-**Languages and development**  
-![TypeScript](https://img.shields.io/badge/TypeScript-27272A?style=flat-square&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-27272A?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-27272A?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-27272A?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br />
 
-**Product and AI workflow**  
-![Figma](https://img.shields.io/badge/Figma-27272A?style=flat-square&logo=figma&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-27272A?style=flat-square&logo=anthropic&logoColor=white)
-![Architecture](https://img.shields.io/badge/Systems_Architecture-27272A?style=flat-square)
-![UX](https://img.shields.io/badge/Product_UX-27272A?style=flat-square)
+<img src="https://img.shields.io/badge/CLAUDE_CODE-102830?style=flat-square&logo=anthropic&logoColor=76ebc1" alt="Claude Code" />
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-102830?style=flat-square&logoColor=76ebc1" alt="System design" />
+<img src="https://img.shields.io/badge/UX_WORKFLOWS-102830?style=flat-square" alt="UX workflows" />
 
-<sub>Tools I work with or use in my product workflow — not an exhaustive skill inventory.</sub>
+</div>
 
-<br>
+## `> activity`
 
-## 05 / Public GitHub snapshot
+<div align="center">
 
-[![GitHub activity](https://github-readme-stats.vercel.app/api?username=aranacj&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&theme=default)](https://github.com/aranacj)
+<a href="https://github.com/aranacj"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aranacj&bg_color=0b1a22&color=76ebc1&line=399d8a&point=e3fff2&area=true&area_color=1b514a&hide_border=true&custom_title=Public%20Contribution%20Activity" alt="Public GitHub activity graph" width="100%" /></a>
 
-<sub>Public activity is only part of the picture. Some projects and contributions are private. Third-party statistics may occasionally be unavailable.</sub>
+<sub>Charts use third-party services and represent public activity; private work may not appear.</sub>
+
+</div>
 
 ---
 
-<sub>**Christian Jay** · Building for clarity, one workflow at a time. · [See repositories ↗](https://github.com/aranacj?tab=repositories)</sub>
+<div align="center">
+
+**BUILD THOUGHTFULLY. MAKE THE COMPLEX FEEL SIMPLE.**
+
+<sub>Christian Jay · <a href="https://github.com/aranacj">@aranacj</a> · Made for this profile, not copied from a template.</sub>
+
+</div>
