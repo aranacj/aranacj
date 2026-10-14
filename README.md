@@ -7,7 +7,7 @@
 
 <a href="https://github.com/aranacj?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-14262d?style=for-the-badge&logo=github&logoColor=7cf0bf" alt="Explore repositories" /></a>
 <a href="https://github.com/aranacj/claude-world-class-app-team"><img src="https://img.shields.io/badge/CLAUDE_DEV_TEAM-14262d?style=for-the-badge&logo=githubactions&logoColor=7cf0bf" alt="Claude dev team" /></a>
-<img src="https://komarev.com/ghpvc/?username=aranacj&label=PROFILE+VIEWS&color=16836d&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/aranacj"><img src="https://img.shields.io/badge/GITHUB_PROFILE-14262d?style=for-the-badge&logo=github&logoColor=7cf0bf" alt="GitHub Profile" /></a>
 
 </div>
 
@@ -81,7 +81,7 @@ A coordinated toolkit of Claude Code skills and specialist agents for discovery,
 
 <div align="center">
 
-<a href="https://github.com/aranacj"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aranacj&bg_color=0b1a22&color=76ebc1&line=399d8a&point=e3fff2&area=true&area_color=1b514a&hide_border=true&custom_title=Public%20Contribution%20Activity" alt="Public GitHub activity graph" width="100%" /></a>
+<a href="https://github.com/aranacj?tab=overview"><img src="https://img.shields.io/badge/VIEW_CONTRIBUTIONS-14262d?style=for-the-badge&logo=github&logoColor=7cf0bf" alt="View GitHub Contributions" /></a>
 
 <sub>Charts use third-party services and represent public activity; private work may not appear.</sub>
 
